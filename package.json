@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/piksu/node-travis-integration-test/issues"
   },
-  "homepage": "https://github.com/piksu/node-travis-integration-test#readme"
+  "homepage": "https://github.com/piksu/node-travis-integration-test#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
 }
